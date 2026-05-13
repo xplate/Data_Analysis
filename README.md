@@ -1,4 +1,5 @@
-##All about data! 👍
+## All about data! 👍
+
 #
 This repository contains a collection of data and business analysis projects personally executed. 🎇
 # 
