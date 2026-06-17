@@ -1,5 +1,5 @@
 
-<h2>🏆 FIFA World Cup Data Analytics Dashboard</h2>
+<h2>🏆 FIFA World Cup Analytics</h2>
 
 Welcome to the FIFA World Cup Data Analytics project! This repository contains an interactive data dashboard designed to explore, analyze, and visualize historical data from every FIFA World Cup tournament. By transforming raw historical sports metrics into dynamic visual insights, this project uncovers the trends, dominance, and evolution of international football.<br><br>
 
