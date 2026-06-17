@@ -5,5 +5,5 @@ This project features an interactive, end-to-end data analytics dashboard design
 <strong>1. Financial Oversight:</strong> Real-time tracking of total project costs, average hospital stay costs, and insurance provider distributions.<br>
 <strong>2. Operational Metrics:</strong> Deep-dive analysis into patient volume, admission types (Urgent, Emergency, Elective), and historical admission trends from 2019 to 2024.<br>
 <strong>3. Clinical Demographics:</strong> Granular breakdown of patient age groups, gender ratios, frequent medications (Aspirin, Ibuprofen), and medical conditions.<br>
-<strong>4. Provider Performance: </strong> Rankings of the top 10 most visited healthcare facilities and patient volume distribution across major insurance carriers (Aetna, Blue Cross, Cigna, etc.).<br>
-Advanced Filtering and more...<br><br>Enjoy!
+<strong>4. Provider Performance: </strong> Rankings of the top 10 most visited healthcare facilities and patient volume distribution across major insurance carriers.<br>
+<strong>Advanced Filtering and more...</strong> <br><br>Enjoy!
